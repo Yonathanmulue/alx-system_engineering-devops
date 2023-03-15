@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BINARY#number_to_be_converted))
+echo $((2#101101))
