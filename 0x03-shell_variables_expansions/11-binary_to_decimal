@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($BINARY#number_to_be_converted))
